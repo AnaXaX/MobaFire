@@ -24,6 +24,7 @@
             <a class="navbar-brand" href="#">Test Badouch</a>
         </div>
 
+<<<<<<< HEAD
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
@@ -49,6 +50,35 @@
                     </ul>
                 </li>
             </ul>
+=======
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Menu 1<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li><a href="#">Menu 2</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">9is hna<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">Ginger</a>
+                            </li>
+                            <li><a href="#">Nigga</a>
+                            </li>
+                            <li><a href="#">Bghit ner9a9</a>
+                            </li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="#">Alpha/Yuho</a>
+                                <!--hey this is a comment --> 
+                                
+                            </li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="#">Taqi chkadir hna</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+>>>>>>> origin/master
 
             <ul class="nav navbar-nav navbar-right">
                 <form class="navbar-form navbar-left" role="search">
